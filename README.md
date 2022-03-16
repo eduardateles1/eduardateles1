@@ -11,4 +11,4 @@
     <img align = "center" alt = "javascript" src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br>
 
-![Snake animation](https://github.com/eduardateles1/eduardateles1/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/eduardateles1/eduardateles1/blob/output/github-contribution-grid-snake.svg)
